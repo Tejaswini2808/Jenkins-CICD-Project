@@ -1,4 +1,4 @@
-# CI-CD_Implementation
+# CI/CD_End-to-End_Implementation
 CI/CD Pipeline Implementation | TicTacToe Game
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
