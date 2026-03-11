@@ -1,5 +1,5 @@
-# DevSecOps_CI-CD_Implementation
-DevSecOps CI/CD Pipeline Implementation | TicTacToe Game
+# CI-CD_Implementation
+CI/CD Pipeline Implementation | TicTacToe Game
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Connecting Ubuntu server to VSCode**
